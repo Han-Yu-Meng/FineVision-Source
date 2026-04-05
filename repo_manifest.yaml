@@ -1,27 +1,64 @@
 meta:
   name: "Fins Official Core"
-  maintainer: "Fins Team <admin@fins.io>"
+  maintainer: "Fins Team <fins@sjtu.edu.cn>"
 
 packages:
-  
-  hello_world:
-    display_name: "Hello World Demo"
-    description: "Fins 节点的入门示例，包含 Publisher 和 Subscriber"
-    category: "Examples"
-    icon: "https://raw.githubusercontent.com/Han-Yu-Meng/hello_world/main/assets/logo.png"
-
-    source:
-      type: "git"
-      url: "https://github.com/Han-Yu-Meng/hello_world.git"
-      auth_required: false 
-
   vins_estimator:
-    display_name: "VINS-Fusion"
-    description: "VINS Fusion 里程计"
-    category: "SLAM"
-    icon: "https://raw.githubusercontent.com/Han-Yu-Meng/VINS-Fusion/master/assets/logo.png"
+    category: "Navigation"
+    description: "VINS Fusion visual odometry"
+    url: "https://github.com/Han-Yu-Meng/VINS-Fusion"
     
-    source:
-      type: "git"
-      url: "https://github.com/Han-Yu-Meng/VINS-Fusion.git"
-      auth_required: false 
+  hello_world:
+    category: "Examples"
+    description: "Examples for FineVision"
+    url: "https://github.com/Han-Yu-Meng/hello_world"
+
+  FAST_LIO:
+    category: "Navigation"
+    description: "FAST-LIO lidar-inertial odometry"
+    url: "https://github.com/Han-Yu-Meng/FAST_LIO"
+
+  pointcloud_converter:
+    category: "Navigation"
+    description: "Point cloud converter"
+    url: "https://github.com/Han-Yu-Meng/pointcloud_converter"
+  
+  livox_converter:
+    category: "Navigation"
+    description: "Livox point cloud converter"
+    url: "https://github.com/Han-Yu-Meng/livox_converter"
+    
+  livox_bag:
+    category: "Navigation"
+    description: "Livox bag"
+    url: "https://github.com/Han-Yu-Meng/livox_bag"
+    
+  iridescence_visualizer:
+    category: "Navigation"
+    description: "Iridescence visualizer"
+    url: "https://github.com/Han-Yu-Meng/iridescence_visualizer"
+  
+  fastlivo2:
+    category: "Navigation"
+    description: "FAST-LIVO2"
+    url: "https://github.com/Han-Yu-Meng/FAST-LIVO2"
+
+  livox_driver2:
+    category: "Navigation"
+    description: "Livox driver 2.0"
+    url: "https://github.com/Han-Yu-Meng/livox_driver2"
+
+  ros_bridge:
+    category: "Common"
+    description: "ROS bridge"
+    url: "https://github.com/Han-Yu-Meng/ros_bridge"
+
+  pointcloud:
+    category: "Navigation"
+    description: "Point cloud"
+    url: "https://github.com/Han-Yu-Meng/pointcloud"
+    
+  lio_sam:
+    category: "Navigation"
+    description: "LIO-SAM"
+    url: "https://github.com/Han-Yu-Meng/LIO-SAM"
