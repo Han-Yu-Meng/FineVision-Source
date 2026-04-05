@@ -62,3 +62,13 @@ packages:
     category: "Navigation"
     description: "LIO-SAM"
     url: "https://github.com/Han-Yu-Meng/LIO-SAM"
+
+  vision:
+    category: "Vision"
+    description: "OpenCV Functions"
+    url: "https://github.com/Han-Yu-Meng/vision"
+
+  Fines_Serial:
+    category: "Navigation"
+    description: "Driver for fines chassis"
+    url: "https://github.com/Han-Yu-Meng/Fines_Serial"
