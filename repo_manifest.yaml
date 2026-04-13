@@ -7,68 +7,82 @@ packages:
     category: "Navigation"
     description: "VINS Fusion visual odometry"
     url: "https://github.com/Han-Yu-Meng/VINS-Fusion"
+    branch: "master"
     
   hello_world:
     category: "Examples"
     description: "Examples for FineVision"
     url: "https://github.com/Han-Yu-Meng/hello_world"
+    branch: "main"
 
   FAST_LIO:
     category: "Navigation"
     description: "FAST-LIO lidar-inertial odometry"
     url: "https://github.com/Han-Yu-Meng/FAST_LIO"
+    branch: "main"
 
   pointcloud_converter:
     category: "Navigation"
     description: "Point cloud converter"
     url: "https://github.com/Han-Yu-Meng/pointcloud_converter"
+    branch: "main"
   
   livox_converter:
     category: "Navigation"
     description: "Livox point cloud converter"
     url: "https://github.com/Han-Yu-Meng/livox_converter"
+    branch: "main"
     
   livox_bag:
     category: "Navigation"
     description: "Livox bag"
     url: "https://github.com/Han-Yu-Meng/livox_bag"
+    branch: "main"
     
   iridescence_visualizer:
     category: "Navigation"
     description: "Iridescence visualizer"
     url: "https://github.com/Han-Yu-Meng/iridescence_visualizer"
+    branch: "main"
   
   fastlivo2:
     category: "Navigation"
     description: "FAST-LIVO2"
     url: "https://github.com/Han-Yu-Meng/FAST-LIVO2"
+    branch: "main"
 
   livox_driver2:
     category: "Navigation"
     description: "Livox driver 2.0"
     url: "https://github.com/Han-Yu-Meng/livox_ros_driver2"
+    branch: "main"
 
   ros_bridge:
     category: "Common"
     description: "ROS bridge"
     url: "https://github.com/Han-Yu-Meng/ros_bridge"
+    branch: "master"
 
   pointcloud:
     category: "Navigation"
     description: "Point cloud"
     url: "https://github.com/Han-Yu-Meng/pointcloud"
+    branch: "main"
     
   lio_sam:
     category: "Navigation"
     description: "LIO-SAM"
     url: "https://github.com/Han-Yu-Meng/LIO-SAM"
+    branch: "main"
 
   vision:
     category: "Vision"
     description: "OpenCV Functions"
     url: "https://github.com/Han-Yu-Meng/vision"
+    branch: "main"
 
   Fines_Serial:
     category: "Navigation"
     description: "Driver for fines chassis"
     url: "https://github.com/Han-Yu-Meng/Fines_Serial"
+    branch: "main"
