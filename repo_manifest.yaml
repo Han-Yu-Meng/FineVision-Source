@@ -61,7 +61,7 @@ packages:
     category: "Common"
     description: "ROS bridge"
     url: "https://github.com/Han-Yu-Meng/ros_bridge"
-    branch: "master"
+    branch: "main"
 
   pointcloud:
     category: "Navigation"
@@ -73,7 +73,7 @@ packages:
     category: "Navigation"
     description: "LIO-SAM"
     url: "https://github.com/Han-Yu-Meng/LIO-SAM"
-    branch: "main"
+    branch: "ros2"
 
   vision:
     category: "Vision"
@@ -86,3 +86,9 @@ packages:
     description: "Driver for fines chassis"
     url: "https://github.com/Han-Yu-Meng/Fines_Serial"
     branch: "main"
+
+ super_lio:
+   category: "Navigation"
+   description: "Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy"
+   url: "https://github.com/Han-Yu-Meng/Super-LIO"
+   branch: "fins"
