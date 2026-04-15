@@ -87,8 +87,8 @@ packages:
     url: "https://github.com/Han-Yu-Meng/Fines_Serial"
     branch: "main"
 
- super_lio:
-   category: "Navigation"
-   description: "Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy"
-   url: "https://github.com/Han-Yu-Meng/Super-LIO"
-   branch: "fins"
+  super_lio:
+    category: "Navigation"
+    description: "Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy"
+    url: "https://github.com/Han-Yu-Meng/Super-LIO"
+    branch: "fins"
