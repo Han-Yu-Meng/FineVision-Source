@@ -69,6 +69,12 @@ packages:
     url: "https://github.com/Han-Yu-Meng/pointcloud"
     branch: "main"
     
+  pointcloud_converter:
+    category: "Navigation"
+    description: "Point cloud converter"
+    url: "https://github.com/Han-Yu-Meng/pointcloud_converter"
+    branch: "main"
+    
   lio_sam:
     category: "Navigation"
     description: "LIO-SAM"
