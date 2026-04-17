@@ -3,17 +3,17 @@ meta:
   maintainer: "Fins Team <fins@sjtu.edu.cn>"
 
 packages:
-  vins_estimator:
-    category: "Navigation"
-    description: "VINS Fusion visual odometry"
-    url: "https://github.com/Han-Yu-Meng/VINS-Fusion"
-    branch: "master"
-    
   hello_world:
     category: "Examples"
     description: "Examples for FineVision"
     url: "https://github.com/Han-Yu-Meng/hello_world"
     branch: "main"
+    
+  vins_estimator:
+    category: "Navigation"
+    description: "VINS Fusion visual odometry"
+    url: "https://github.com/Han-Yu-Meng/VINS-Fusion"
+    branch: "master"
 
   FAST_LIO:
     category: "Navigation"
@@ -92,3 +92,9 @@ packages:
     description: "Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy"
     url: "https://github.com/Han-Yu-Meng/Super-LIO"
     branch: "fins"
+    
+  vision_bridge:
+    category: "Vision"
+    description: "Bridge between ROS2 and OpenCV"
+    url: "https://github.com/Han-Yu-Meng/vision_bridge"
+    branch: "main"
