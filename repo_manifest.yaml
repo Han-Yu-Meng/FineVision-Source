@@ -1,17 +1,17 @@
 meta:
-  name: "Fins Official Software Source"
+  name: "FineVision Software Source"
   maintainer: "https://iwin-fins.com/"
 
 packages:
   fins_tutorial:
     category: "Examples"
-    description: "Tutorial for FINS"
+    description: "Tutorial for FineVision"
     url: "https://github.com/Han-Yu-Meng/fins_tutorial"
     branch: "main"
     
   fins_benchmark:
     category: "Examples"
-    description: "Benchmark for FINS"
+    description: "Benchmark for FineVision"
     url: "https://github.com/Han-Yu-Meng/fins_benchmark"
     branch: "main"
     
